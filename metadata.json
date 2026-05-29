@@ -1,0 +1,6 @@
+{
+  "name": "MojiConnect",
+  "description": "Social discovery for Korean and Japanese language learners with a real-time smart flashcard dictionary and TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
